@@ -1,0 +1,35 @@
+.position-bg{
+    margin-top: 200px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+    margin-top: 50px;
+}
+.card:hover{
+    border: none;
+    box-shadow: none;
+    color: orange;
+}
+.header{
+    margin-top: 150px;
+}
+.show{
+    margin-top: 15px;
+    border-bottom: solid tomato;
+}
+.img-bg{
+    box-shadow: 0px 0px 10px gray;
+    padding: 50px 50px;
+}
+.img-bg:hover{
+    box-shadow: none;
+    border:2px solid gray;
+}
+.img-bg-1{
+    margin-bottom: 15px;
+}
+.foot{
+    text-align: center;
+    font-size: x-small;
+}
